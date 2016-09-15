@@ -1,0 +1,5 @@
+- Sometimes crops are closer to the next county. What to do there?
+- We are not accounting for imports from other countries, specially Canada and Mexico would be important to keep into account.
+- We are not talking about what happens, we are talking about potential case scenarios.
+- A second phase for this would be to see where there could actually be crops, given certain land use, weather and climate scenarios.
+
