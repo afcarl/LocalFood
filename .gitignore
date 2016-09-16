@@ -1,5 +1,6 @@
-.pptx
-.ppt
-.xls
-.csv
-.pdf
+*.pptx
+*.ppt
+*.xls
+*.csv
+*.pdf
+data/
