@@ -1,0 +1,41 @@
+Slide 1.
+Title
+
+Slide 2.
+We are Vipassana Vijayarangan, computer scientist from India, and Sara Arango, mathematical engineer from Colombia.
+We both are recent graduates from NYU's Master of Science in Urban Informatics from the Center for Urban and Science.
+We have both worked together in many teams, have similar interests and complementary skills.
+
+Slide 3.
+
+We wish to tackle the problem of where we grow our food under a climate smart approach, in this case meaning, if everyone were to consume as locally as possible, where would we need to plant vegetables in order to fulfill the population needs. 
+We will talk about the limitations to this approach later on.
+This will imply two things:
+First, knowing how many vegetables are produced in each county, as well as the vegetable demand. From then, we need 
+
+Slide 4.
+
+
+Slide 5.
+
+
+Slide 6.
+
+
+Slide 7.
+
+
+Slide 8.
+
+
+Slide 9.
+
+
+Slide 10.
+
+LIMITATIONS
+
+
+
+
+
