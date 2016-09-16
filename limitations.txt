@@ -8,7 +8,7 @@ Policies that encourage local production or technologies that makes it happen ()
 - We are not talking about what happens, we are talking about potential case scenarios.
 - A second phase for this would be to see where there could actually be crops, given certain land use, weather and climate scenarios.
 - We are using the average US american consumption.
-- null data versus no production per county.
+- null data versus no production per county. We assumed NaNs to be zeros.
 - We are deliberately speaking of planting vegetables, as if it were just as easy to plant the same vegetables everywhere in the USA, ignoring factors like weather, water and climate. It could actually environmentally worse, that is why our second layer would be so necessary.
 - Our algorithm to allocate resources could be way more efficient. 
 
