@@ -1,5 +1,8 @@
 # LocalFood
 Project by Sara and Vipassana for the Godan Data Hackathon. Find the webpage we created for the project [here] (https://vipassana.github.io/).
+
+![Tag](https://github.com/vipassana/LocalFood/blob/master/surplus.png)
+
 <br>
 Datasets:
 - [Food Enviornment Atlas] (https://catalog.data.gov/dataset/food-environment-atlas-f4a22)
